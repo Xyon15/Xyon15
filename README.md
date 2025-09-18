@@ -8,11 +8,20 @@ Passionné par le développement web et l'intelligence artificielle, j'adore cr�
 
 ## 🛠️ Compétences
 
-
 <p>
 	<img src="https://github-readme-stats-three-psi-91.vercel.app/api?username=xyon15&theme=dark&show_icons=true&rank_icon=github&include_all_commits=true" alt="Xyon15's GitHub Stats" />
 </p>
-- **Langages :** Python, HTML, CSS
+
+### 💻 Langages de programmation
+
+<div align="center">
+
+| 🐍 Python | 🌐 HTML | 🎨 CSS |
+|------------|----------|---------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| Langage polyvalent pour le développement web, l'IA et l'automatisation | Langage de balisage pour structurer le contenu web | Langage de style pour la mise en forme et le design web |
+
+</div>
 
 ---
 
