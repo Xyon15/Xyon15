@@ -3,12 +3,14 @@ Bienvenue sur mon profil GitHub !
 Passionné par le développement web et l'intelligence artificielle, j'adore créer des projets modernes et utiles. 🚀
 ---
 
-## 🛠️ Compétences
+## 🛠️ Stats
 
 <p>
 	<img src="https://github-readme-stats-three-psi-91.vercel.app/api?username=xyon15&theme=dark&show_icons=true&rank_icon=github&include_all_commits=true" alt="Xyon15's GitHub Stats" />
 </p>
-- **Langages :** Python, HTML, CSS
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
 
