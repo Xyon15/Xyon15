@@ -19,12 +19,13 @@ Passionné par le développement web et l'intelligence artificielle, j'adore cr�
 
 ## 🌟 Projets phares
 
-- <a href="https://github.com/Xyon15/IA-chatbot">
+<a href="https://github.com/Xyon15/IA-chatbot">
 	<img align="center" src="https://github-readme-stats-three-psi-91.vercel.app/api/pin/?username=Xyon15&repo=IA-chatbot&theme=dark" />
 </a>
-- [Hardware-Monitor](https://github.com/Xyon15/Hardware-Monitor)
-- [main-website](https://github.com/Xyon15/main-website)
-- [bouxon-website](https://github.com/Xyon15/bouxon-website)
+
+<a href="https://github.com/Xyon15/IA-chatbot">
+	<img align="center" src="https://github-readme-stats-three-psi-91.vercel.app/api/pin/?username=Xyon15&repo=Hardware-Monitor&theme=dark" />
+</a>
 
 ---
 
