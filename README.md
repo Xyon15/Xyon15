@@ -6,7 +6,7 @@ Bienvenue sur mon profil GitHub !
 Passionné par le développement web et l'intelligence artificielle, j'adore créer des projets modernes et utiles. 🚀
 
 
-<p align="center">
+<p>
 	<img src="https://github-readme-stats-three-psi-91.vercel.app/api?username=xyon15&theme=dark&show_icons=true&rank_icon=github&include_all_commits=true" alt="Xyon15's GitHub Stats" />
 </p>
 
