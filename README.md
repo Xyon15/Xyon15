@@ -6,19 +6,16 @@ Passionné par le développement web et l'intelligence artificielle, j'adore cr�
 ## 🛠️ Stats
 
 
-<table>
-	<tr>
-		<td align="left" valign="top">
-      
-			<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <br>
-			<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <br>
-			<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-		</td>
-		<td align="right" valign="top">
-			<img src="https://github-readme-stats-three-psi-91.vercel.app/api?username=xyon15&theme=dark&show_icons=true&rank_icon=github&include_all_commits=true" alt="Xyon15's GitHub Stats" />
-		</td>
-	</tr>
-</table>
+<table><tr>
+<td align="left" valign="top">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /><br>
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /><br>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+</td>
+<td align="right" valign="top">
+<img src="https://github-readme-stats-three-psi-91.vercel.app/api?username=xyon15&theme=dark&show_icons=true&rank_icon=github&include_all_commits=true" alt="Xyon15's GitHub Stats" />
+</td>
+</tr></table>
 
 
 ---
