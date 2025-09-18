@@ -16,18 +16,20 @@ Passionné par le développement web et l'intelligence artificielle, j'adore cr�
 
 ## 🌟 Projets phares
 
-<a href="https://github.com/Xyon15/IA-chatbot">
-	<img align="center" src="https://github-readme-stats-three-psi-91.vercel.app/api/pin/?username=Xyon15&repo=IA-chatbot&theme=dark" />
-</a>
-<a href="https://github.com/Xyon15/IA-chatbot">
-	<img align="center" src="https://github-readme-stats-three-psi-91.vercel.app/api/pin/?username=Xyon15&repo=Hardware-Monitor&theme=dark" />
-</a>
-<a href="https://github.com/Xyon15/IA-chatbot">
-	<img align="center" src="https://github-readme-stats-three-psi-91.vercel.app/api/pin/?username=Xyon15&repo=main-website&theme=dark" />
-</a>
-<a href="https://github.com/Xyon15/IA-chatbot">
-	<img align="center" src="https://github-readme-stats-three-psi-91.vercel.app/api/pin/?username=Xyon15&repo=bouxon-website&theme=dark" />
-</a>
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+	<a href="https://github.com/Xyon15/IA-chatbot">
+		<img src="https://github-readme-stats-three-psi-91.vercel.app/api/pin/?username=Xyon15&repo=IA-chatbot&theme=dark" />
+	</a>
+	<a href="https://github.com/Xyon15/Hardware-Monitor">
+		<img src="https://github-readme-stats-three-psi-91.vercel.app/api/pin/?username=Xyon15&repo=Hardware-Monitor&theme=dark" />
+	</a>
+	<a href="https://github.com/Xyon15/main-website">
+		<img src="https://github-readme-stats-three-psi-91.vercel.app/api/pin/?username=Xyon15&repo=main-website&theme=dark" />
+	</a>
+	<a href="https://github.com/Xyon15/bouxon-website">
+		<img src="https://github-readme-stats-three-psi-91.vercel.app/api/pin/?username=Xyon15&repo=bouxon-website&theme=dark" />
+	</a>
+</div>
 
 ---
 
