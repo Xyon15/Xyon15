@@ -1,5 +1,4 @@
 # 👋 Salut!
-
 Bienvenue sur mon profil GitHub !  
 Passionné par le développement web et l'intelligence artificielle, j'adore créer des projets modernes et utiles. 🚀
 ---
