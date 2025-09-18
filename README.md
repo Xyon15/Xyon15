@@ -11,7 +11,7 @@ Passionné par le développement web et l'intelligence artificielle, j'adore cr�
 <img src="https://github-readme-stats-three-psi-91.vercel.app/api?username=xyon15&theme=dark&show_icons=true&rank_icon=github&include_all_commits=true" alt="Xyon15's GitHub Stats" />
 </td>
 <td align="right" valign="top">
-<img src="https://github-readme-stats-three-psi-91.vercel.app/api/top-langs/?username=Xyon15&card_width=400&layout=compact&theme=dark"/>
+<img src="https://github-readme-stats-three-psi-91.vercel.app/api/top-langs/?username=Xyon15&card_width=600&layout=compact&theme=dark"/>
 </td>
 </tr></table>
 
