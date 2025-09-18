@@ -22,7 +22,7 @@ Passionné par le développement web et l'intelligence artificielle, j'adore cr�
 <a href="https://github.com/Xyon15/IA-chatbot">
 	<img align="center" src="https://github-readme-stats-three-psi-91.vercel.app/api/pin/?username=Xyon15&repo=IA-chatbot&theme=dark" />
 </a>
--
+---
 <a href="https://github.com/Xyon15/IA-chatbot">
 	<img align="center" src="https://github-readme-stats-three-psi-91.vercel.app/api/pin/?username=Xyon15&repo=Hardware-Monitor&theme=dark" />
 </a>
