@@ -31,7 +31,7 @@ Passionné par le développement web et l'intelligence artificielle, j'adore cr�
 Voici un exemple de dépôt épinglé supplémentaire grâce à [github-readme-stats](https://github.com/anuraghazra/github-readme-stats):
 
 <a href="https://github.com/Xyon15/IA-chatbot">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Xyon15&repo=IA-chatbot" />
+	<img align="center" src="https://github-readme-stats-three-psi-91.vercel.app/api/pin/?username=Xyon15&repo=IA-chatbot" />
 </a>
 
 Vous pouvez ajouter d'autres dépôts en dupliquant la balise ci-dessus et en changeant le nom du repo.
