@@ -1,11 +1,14 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xyon15&theme=dark&show_icons=true&rank_icon=github&include_all_commits=true" />
-</p>
+
 
 # 👋 Salut, je suis Xyon !
 
 Bienvenue sur mon profil GitHub !  
 Passionné par le développement web et l'intelligence artificielle, j'adore créer des projets modernes et utiles. 🚀
+
+
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=xyon15&theme=dark&show_icons=true&rank_icon=github&include_all_commits=true" alt="Xyon15's GitHub Stats" />
+</p>
 
 ---
 
