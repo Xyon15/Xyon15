@@ -31,8 +31,8 @@ Passionné par le développement web et l'intelligence artificielle, j'adore cr�
 	<a href="https://github.com/Xyon15/main-website">
 		<img src="https://github-readme-stats-three-psi-91.vercel.app/api/pin/?username=Xyon15&repo=main-website&theme=dark" />
 	</a>
-	<a href="https://github.com/Xyon15/bouxon-website">
-		<img src="https://github-readme-stats-three-psi-91.vercel.app/api/pin/?username=Xyon15&repo=bouxon-website&theme=dark&description_lines_count=1" />
+	<a href="https://github.com/Xyon15/android-calendar">
+		<img src="https://github-readme-stats-three-psi-91.vercel.app/api/pin/?username=Xyon15&repo=android-calendar&theme=dark&description_lines_count=1" />
 	</a>
 </div>
 
