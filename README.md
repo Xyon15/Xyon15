@@ -23,7 +23,7 @@ Passionné par le développement web et l'intelligence artificielle, j'adore cr�
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 	<a href="https://github.com/Xyon15/IA-chatbot">
-		<img src="https://github-readme-stats-three-psi-91.vercel.app/api/pin/?username=Xyon15&repo=IA-chatbot&theme=dark" />
+		<img src="https://github-readme-stats-three-psi-91.vercel.app/api/pin/?username=Xyon15&repo=desktop-mate&theme=dark" />
 	</a>
 	<a href="https://github.com/Xyon15/Hardware-Monitor">
 		<img src="https://github-readme-stats-three-psi-91.vercel.app/api/pin/?username=Xyon15&repo=Hardware-Monitor&theme=dark" />
