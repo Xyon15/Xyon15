@@ -40,7 +40,7 @@ Passionné par le développement web et l'intelligence artificielle, j'adore cr�
 
 ## 📫 Me contacter
 
-- **Mail :** [Clique ici](mailto:pereira.lorenao@esh64.fr)
+- **Mail :** [Clique ici](mailto:pereira.lorenzo@esh64.fr)
 - **Site Web :** [Portfolio](https://xyon.site.elsites.fr/)
 
 ---
