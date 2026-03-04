@@ -54,7 +54,7 @@ jobs:
 
           # OPTIMISATION
           # base_indepth: false
-          base: header, activity, community, metadata
+          base: header, activity, community, metadata, languages
 
           plugin_lines: yes
           plugin_followup: yes
