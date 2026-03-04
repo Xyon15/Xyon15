@@ -64,5 +64,5 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_languages_colors: github
           plugin_languages_indepth: yes
-          plugin_languages_indepth_custom: Xyon15/os-assistant
+          plugin_languages_indepth_custom: Xyon15/os-assistant, Xyon15/minecraft-launcher, Xyon15/main-website, Xyon15/Hardware-Monitor, Xyon15/main-website
           plugin_languages_ignored: procfile
