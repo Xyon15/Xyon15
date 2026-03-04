@@ -57,5 +57,5 @@ jobs:
           filename: github-metrics-os-assistant.svg
 
           # OPTIMISATION
-          indepth: false
+          base_indepth: false
           base: header, activity, community, metadata
