@@ -1,53 +1,57 @@
 name: Metrics
 
-
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 3 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - master
-      - main
 
 jobs:
 
-  # =============================
-  # 👤 PROFILE METRICS
-  # =============================
-  profile:
+  # ==========================
+  # 👤 USER METRICS
+  # ==========================
+  user:
     runs-on: ubuntu-latest
-    environment:
-      name: production
-    
     permissions:
       contents: write
 
     steps:
-      - name: Generate profile metrics
+      - name: User metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN_USER }}
           user: Xyon15
           template: classic
-          base: header, activity, community, repositories, metadata
+          filename: github-metrics.svg
 
-  # =============================
+          # OPTIMISATION
+          repositories: 20
+          indepth: false
+          base: header, activity, repositories, metadata
+
+          plugin_languages: yes
+          plugin_isocalendar: yes
+          plugin_achievements: yes
+
+
+  # ==========================
   # 📦 REPOSITORY METRICS
-  # =============================
-  repository:
+  # ==========================
+  os-assistant:
     runs-on: ubuntu-latest
-    environment:
-      name: production
     permissions:
       contents: write
 
     steps:
-      - name: Generate repository metrics
+      - name: OS Assistant repository metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN_REPO }}
           template: repository
           user: Xyon15
           repo: os-assistant
+          filename: github-metrics-os-assistant.svg
+
+          # OPTIMISATION
+          indepth: false
           base: header, activity, community, metadata
