@@ -63,4 +63,6 @@ jobs:
           plugin_languages_limit: 6
           plugin_languages_threshold: 2%
           plugin_languages_colors: github
-          # plugin_languages_ignored: 
+          plugin_languages_indepth: yes
+          plugin_languages_indepth_custom: Xyon15/os-assistant
+          plugin_languages_ignored: procfile
