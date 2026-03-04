@@ -12,6 +12,8 @@ jobs:
   # ==========================
   user:
     runs-on: ubuntu-latest
+    environment:
+      name: production
     permissions:
       contents: write
 
@@ -26,7 +28,7 @@ jobs:
 
           # OPTIMISATION
           repositories: 20
-          indepth: false
+          base_indepth: false
           base: header, activity, repositories, metadata
 
           plugin_languages: yes
@@ -39,6 +41,8 @@ jobs:
   # ==========================
   os-assistant:
     runs-on: ubuntu-latest
+    environment:
+      name: production
     permissions:
       contents: write
 
