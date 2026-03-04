@@ -58,3 +58,4 @@ jobs:
 
           plugin_lines: yes
           plugin_followup: yes
+          plugin_introduction: yes
