@@ -1,5 +1,6 @@
 name: Metrics
 
+
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -16,6 +17,9 @@ jobs:
   # =============================
   profile:
     runs-on: ubuntu-latest
+    environment:
+      name: production
+    
     permissions:
       contents: write
 
@@ -33,6 +37,8 @@ jobs:
   # =============================
   repository:
     runs-on: ubuntu-latest
+    environment:
+      name: production
     permissions:
       contents: write
 
