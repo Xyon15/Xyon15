@@ -1,0 +1,71 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+jobs:
+
+  # ==========================
+  #        USER METRICS
+  # ==========================
+  user:
+    runs-on: ubuntu-latest
+    environment:
+      name: production
+    permissions:
+      contents: write
+
+    steps:
+      - name: User metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN_USER }}
+          user: Xyon15
+          template: classic
+          filename: github-metrics.svg
+
+          # OPTIMISATION
+          repositories: 20
+          # base_indepth: false
+          base: header, activity, repositories, metadata
+
+
+  # ==========================
+  #    REPOSITORY METRICS
+  # ==========================
+  os-assistant:
+    runs-on: ubuntu-latest
+    environment:
+      name: production
+    permissions:
+      contents: write
+
+    steps:
+      - name: OS Assistant repository metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN_REPO }}
+          template: repository
+          user: Xyon15
+          repo: os-assistant
+          filename: github-metrics-os-assistant.svg
+
+          # OPTIMISATION
+          # base_indepth: false
+          base: header, activity, community, metadata
+
+          plugin_lines: yes
+          plugin_followup: yes
+          plugin_introduction: yes
+          plugin_languages: yes
+          plugin_languages_limit: 6
+          plugin_languages_threshold: 0%
+          plugin_languages_colors: github
+          plugin_languages_indepth: yes
+          plugin_languages_indepth_custom: Xyon15/os-assistant
+          plugin_languages_ignored: procfile
+          plugin_languages_sections: recently-used
+          plugin_languages_recent_load: 400
+          plugin_languages_recent_days: 30
